@@ -1,9 +1,201 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Área de Social
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+JONATHAN POLLARD
+Rua dos Inválidos, 153 / apt 1404  Centro  CEP 20.231-047  Tel.: (21) 3278 1487   Cel.: 8808 1512
+
+               22 anos, Brasileiro, Rio de Janeiro, Solteiro
+
+VIVÊNCIAS
+
+ 
+
+
+2011
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2010/2011
+ 
+
+
+
+
+
+
+
+ 
+
+   
+ 
+
+
+
+
+
+
+
+
+
+2009
+
+
+
+
+
+
+
+	
+Oi
+
+Cargo: Assistente de Operações Financeiras II
+
+Período: De 12/2010 a 09/2011
+
+Principais Atribuições:
+
+Desenvolvimento de aplicações web, criando projetos para gerencia de tarifação, automatizando processos da gerencia com o intuito no ganho de tempo operacional dos trabalhos realizados. Administração do único servidor oficial da gerencia, autorizada e com manutenção do TI. Aplicação da metodologia Scrum na equipe, sendo idealizada para ser implantada por todo a diretoria.  
+ 
+
+
+
+
+
+Oi
+
+Cargo: Estagiário 
+
+Período: De 03/2010 a 12/2010
+
+Principais Atribuições:
+
+Desenvolver aplicações web para todas as gerencias da diretoria DRC. Desenvolvimento de aplicações web/móbile, participando do projeto móbile da DRC, com foco em desenvolvimento de sites com usabilidade adequada para usuários de smartphones. Atribuições na administração do servidor de acesso externo da gerencia, com o intuito de garantir acesso seguro aos sistemas implantados.
+Participações em projetos de importância na empresa como o Extratores Anatel, um sistema de cadastro de extratores para gerencia de Business Inteligence, hoje usada por toda area auxiliando no envio de informações para Anatel.
+
+
+
+
+
+
+
+
+Inmetro
+
+Cargo: Estagiário de Desenvolvimento 
+
+Período: De 04/2009 a 03/2010
+
+Responsável pela organização e controle do desenvolvimento do site e intranet do inmetro;
+Controle de entradas e saídas de informações da intranet;
+Criação de projetos de web desing para sites internos da companhia.
+	
+	
+FORMAÇÃO ACADÊMICA
+
+       	
+
+Superior em Análise de Sistemas 
+CONHECIMENTOS
+
+
+
+
+
+	Informática: 
+Suporte Técnico;
+Redes;
+Formatação e instalação de sistemas operacionais e softwares em geral;
+Office;
+Windows Vista e ( 9x, XP, 2003, 2008);
+Linux ( Slackware/Debian )
+Segurança Computacional em Linux – Hardening, Perímetro
+
+
+Programação
+Pascal, 
+Php (básico),
+Ext JS
+ASP
+HTML
+CSS
+Javascript
+HTML5 (básico) 
+
+
+Frontend Mobile
+Desenvolvimento de layout para aplicações mobile
+
+
+Scrum
+Metodologias, conceitos, software de scrum (mingle), implantação de scrum dentro uma equipe de desenvolvimento.
+
+
+
+SEO
+Conhecimentos na implantação de SEO em sites e blogs de wordpress.
+
+
+Usabilidade
+Conceitos de usabilidade de sites para web e para web/mobile, com o intuito de inserir conteúdos dos sites no melhor formato visual para usuários, aplicando conhecimentos de desing e teste de software.
+
+
+
+
+Web Design
+Photoshop, Corel Draw, Fireworks, Flash, Dreamweaver.
+
+
+Administração:
+Trâmites financeiros;
+Trâmites contábeis;
+Controle da folha de funcionários.
+
+Idiomas:
+Inglês – leitura em nível avançado, redação e conversação em nível  intermediário; 
+
+
+
+
+
+CURSOS_________________________________________________
+
+Web Design - JFW 
+
+Student to Business (Microsoft) - Curso de capacitação da plataforma.NET 
+
+Fireworks – Estácio de Sá
+
+Montagem e Manutenção – Estácio de Sá
+
+Inglês – Englishtown 
+
+Fundamentos da Segurança Computacional – Clavis
+
+Teste de Invasão – Clavis
+
+
